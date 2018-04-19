@@ -1,0 +1,62 @@
+==================================================================
+https://keybase.io/jameshageman
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jameshageman.com
+    * I am jameshageman (https://keybase.io/jameshageman) on keybase.
+      * I have a public key ASAdgjhojvAI4Y1fKbbw_-2Y3MMkE-GaZzMZOx8ZBxH8wwo
+
+      To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+          "eldest_kid": "01201d8238688ef008e18d5f29b6f0ffed98dcc32413e19a6733193b1f190711fcc30a",
+                "host": "keybase.io",
+                      "kid": "01201d8238688ef008e18d5f29b6f0ffed98dcc32413e19a6733193b1f190711fcc30a",
+                            "uid": "d979e842523233b095d1d4722595e019",
+                                  "username": "jameshageman"
+
+    },
+    "merkle_root": {
+          "ctime": 1524173366,
+                "hash": "4a061fda7ee9497eec3e824688c70fdc23e63bbac20a5058e9f6ccb85bf9166bc821a22b80667ce52df234def0e72dc842ae3e6dd92a2def79e4710870d69999",
+                      "hash_meta": "34a18d5e0f00e0092d460b0711cf45e385601466741c0c6a132e1d5bd7c9e077",
+                            "seqno": 2415484
+
+    },
+    "service": {
+          "entropy": "wKMtrzyFueqohG5PS85jJRlU",
+                "hostname": "jameshageman.com",
+                      "protocol": "https:"
+
+    },
+        "type": "web_service_binding",
+            "version": 2
+
+  },
+  "client": {
+      "name": "keybase.io go client",
+          "version": "1.0.47"
+
+  },
+    "ctime": 1524173400,
+      "expire_in": 504576000,
+        "prev": "67af32588734ac3b8cf7742ab3bab756a6192589bcb13ae4f948a557c1b5a2de",
+          "seqno": 6,
+            "tag": "signature"
+
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgHYI4aI7wCOGNXym28P/tmNzDJBPhmmczGTsfGQcR/MMKp3BheWxvYWTESpcCBsQgZ68yWIc0rDuM93Qqs7q3VqYZJYm8sTrk+UilV8G1ot7EIAlXntTHWJRKpNxqpjj4ZrXHS1gbB9cX5OtN9azijdWMAgHCo3NpZ8RAKD2+r5FR+KrMMBXMIdzM1Xf1h7xmHEE6gxtgl5voSDJi7rNCTtTx1V064B5sR5xsFzOcKNIhurE2B+DLdup5BKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDccMfOFnkFMcc6tluRibo9Mk8GSefZpeqmD4JB6WLFQo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jameshageman
+
+==================================================================
